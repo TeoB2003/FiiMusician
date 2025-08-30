@@ -1,0 +1,66 @@
+/* Overlay background */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7); /* Intunecat */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Asigură-te că este deasupra altor elemente */
+  }
+  
+  /* Stiluri pentru caseta de accident */
+  .accident-selector {
+    background-color: #ffffff; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    padding: 1rem;
+    border-radius: 15px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+    width: 300px; 
+    height: 20%;
+    transition: background-color 0.3s ease;
+    font-family: Arial, sans-serif; 
+  }
+  
+  button {
+    background-color: #4b8bbe;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+    height: 20%;
+    cursor: pointer;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15);
+    transition: background-color 0.3s ease;
+    margin-right: 5%;
+  
+    &:hover {
+      background-color: #3c74a2;
+    }
+  }
+  
+
+  select {
+    background-color: #f4f4f9; 
+    border: 1px solid #ccc; 
+    border-radius: 5px;
+    padding: 8px 12px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #333;
+    width: 80%; 
+    margin: 10px 0;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    -webkit-appearance: none; /* Elimină stilurile implicite de la browsere */
+    -moz-appearance: none;
+    appearance: none;
+}

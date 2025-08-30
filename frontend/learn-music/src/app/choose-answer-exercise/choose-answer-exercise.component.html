@@ -1,0 +1,20 @@
+<div class="all">
+    <div class="question">
+        {{questionText()}}
+        @if(htmlcontent()!=null)
+        {
+             <div class="html-content" [innerHTML]="safeHtml"></div>
+        }
+        @if(score()!=null)
+        {
+            <div class="score">
+                <div #sheet class="sheet"></div>
+            </div>
+        }
+    </div>
+    <div class="answers">
+        @for(option of responeOptions; track responeOptions.indexOf(option)) {
+                <button class="option" (click)="chooseAnswer(option)"  [ngClass]="{'selected': selectedAnswer === option}" >{{option}}</button>
+        }
+    </div>
+</div>

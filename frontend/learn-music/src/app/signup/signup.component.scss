@@ -1,0 +1,96 @@
+.all{
+    height: 100vh;
+    width: 100vw;
+}
+
+
+
+$background-color: rgb(237, 227, 199);
+$button-color: rgb(166, 132, 38);
+
+.signup-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: $background-color;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 1.5s ease forwards;
+  h2 {
+    font-family: 'Georgia', serif;
+    font-size: 2rem;
+    color: #3b2e1a;
+    margin-bottom: 1rem;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    max-width: 400px;
+
+    input {
+      padding: 0.8rem 1rem;
+      margin: 0.6rem 0;
+      font-size: 1rem;
+      border-radius: 10px;
+      border: 2px solid #a08d6f;
+      background-color: #ffffffcc;
+      color: #3b2e1a;
+      font-family: 'Georgia', serif;
+      transition: border-color 0.3s ease;
+
+      &:focus {
+        border-color: $button-color;
+        outline: none;
+      }
+    }
+
+    .error {
+      color: #a32727;
+      font-size: 0.9rem;
+      font-family: 'Georgia', serif;
+      margin-top: -0.3rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .signup-button {
+        background-color: $button-color;
+        color: black;
+        border: none;
+        padding: 0.9rem 1.5rem;
+        border-radius: 12px;
+        font-size: 1.1rem;
+        font-family: 'Georgia', serif;
+        cursor: pointer;
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+        transition: background-color 0.3s ease, transform 0.2s ease;
+      
+        &:hover {
+          background-color: darken($button-color, 10%);
+          transform: translateY(-2px);
+        }     
+    }
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20%, 60% { transform: translateX(-10px); }
+    40%, 80% { transform: translateX(10px); }
+  }
+  
+  form.shake {
+    animation: shake 0.4s ease;
+  }

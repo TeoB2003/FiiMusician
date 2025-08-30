@@ -1,0 +1,11 @@
+2025-04-30 14:45:54 EEST LOG:  database system was shut down at 2025-04-30 14:45:19 EEST
+2025-04-30 14:50:53 EEST LOG:  checkpoint starting: time
+2025-04-30 14:50:54 EEST LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.113 s, sync=0.008 s, total=0.141 s; sync files=3, longest=0.005 s, average=0.003 s; distance=0 kB, estimate=0 kB; lsn=0/1A9E408, redo lsn=0/1A9E3B0
+2025-04-30 14:54:37 EEST ERROR:  column subcapitole.nume does not exist at character 90
+2025-04-30 14:54:37 EEST STATEMENT:  SELECT subcapitole.id AS subcapitole_id, subcapitole.idcapitol AS subcapitole_idcapitol, subcapitole.nume AS subcapitole_nume 
+	FROM subcapitole 
+	WHERE subcapitole.idcapitol = 1
+2025-04-30 14:54:51 EEST ERROR:  column subcapitole.nume does not exist at character 90
+2025-04-30 14:54:51 EEST STATEMENT:  SELECT subcapitole.id AS subcapitole_id, subcapitole.idcapitol AS subcapitole_idcapitol, subcapitole.nume AS subcapitole_nume 
+	FROM subcapitole 
+	WHERE subcapitole.idcapitol = 1

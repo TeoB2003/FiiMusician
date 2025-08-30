@@ -1,0 +1,41 @@
+$background-color: rgb(237, 227, 199);
+$button-color: rgb(166, 132, 38);
+@import '../shared/note.scss';
+
+.page{
+    width: 100vw;
+    height: 100vh;
+    background-color: $background-color;
+    display: flex;
+}
+
+.right{
+    width: 60%;
+    flex-direction: column;       
+    color: white;              
+    text-align: center;  
+    display: flex;                
+    justify-content: center;     
+    align-items: center;   
+}
+
+.left{
+    width: 40%;
+}
+
+.begin {
+    @include button-style($button-color, black);  
+}
+
+.have-account {
+    @include button-style(#2196F3, white); 
+}
+
+.text{
+    width: 70%;
+    font-size: large;
+    margin-bottom: 5%;
+    
+}
+
+

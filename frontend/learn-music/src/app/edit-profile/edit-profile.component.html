@@ -1,0 +1,53 @@
+<div class="all">
+    
+<div class="edit-profile-container">
+  <button class="close-button" (click)="goBack()">✖</button>
+
+  <h2 class="edit-profile-title">Editare Profil</h2>
+
+  <form (ngSubmit)="saveChanges()" #profileForm="ngForm">
+    <div class="form-group">
+      <label for="username">Username nou (opțional)</label>
+      <input
+        type="text"
+        id="username"
+        name="username"
+        [(ngModel)]="username"
+        placeholder="Lasă gol dacă nu vrei să-l schimbi"
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="password">Parolă nouă (opțional)</label>
+      <input
+        type="password"
+        id="password"
+        name="password"
+        [(ngModel)]="password"
+        minlength="6"
+        placeholder="Minim 6 caractere; lasa gol daca nu vrei sa schimbi"
+      />
+    </div>
+
+    <div class="form-actions">
+      <button
+        class="save-button"
+        type="submit"
+        [disabled]="!username && !password"
+      >
+        Salvează
+      </button>
+      <button class="cancel-button" type="button" (click)="goBack()">
+        Anulează
+      </button>
+    </div>
+  </form>
+
+  @if(showSuccessMessage)
+  {
+    <div class="success-message">
+      ✅ Date salvate cu succes!
+    </div>
+  }
+</div>
+</div>

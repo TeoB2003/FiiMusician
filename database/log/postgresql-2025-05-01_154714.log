@@ -1,0 +1,29 @@
+2025-05-01 15:47:19 EEST LOG:  database system was shut down at 2025-05-01 15:21:36 EEST
+2025-05-01 15:47:49 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-05-01 15:47:49 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-05-01 15:47:49 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-05-01 15:48:19 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-05-01 15:48:19 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-05-01 15:48:19 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-05-01 15:48:49 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-05-01 15:48:49 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-05-01 15:48:49 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-05-01 15:49:19 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-05-01 15:49:19 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-05-01 15:49:19 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-05-01 15:49:50 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-05-01 15:49:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-05-01 15:49:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-05-01 15:50:19 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-05-01 15:50:19 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-05-01 15:50:19 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-05-01 15:50:50 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-05-01 15:50:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-05-01 15:50:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-05-01 15:51:19 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-05-01 15:51:19 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-05-01 15:51:19 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-05-01 15:51:24 EEST ERROR:  canceling statement due to user request
+2025-05-01 15:51:24 EEST LOG:  shutting down
+2025-05-01 15:51:24 EEST LOG:  checkpoint starting: shutdown immediate
+2025-05-01 15:51:24 EEST LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.006 s, sync=0.004 s, total=0.028 s; sync files=2, longest=0.003 s, average=0.002 s; distance=0 kB, estimate=0 kB; lsn=0/1A9E568, redo lsn=0/1A9E568

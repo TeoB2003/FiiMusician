@@ -1,0 +1,25 @@
+<div style="margin: 0 8%; text-align: left; padding-top: 40px; font-size: 1.1rem; line-height: 1.5;">
+  <h2 style="margin-bottom: 10px;">Titlul și informațiile generale ale unei partituri</h2>
+
+  <p>
+    Înainte de a analiza conținutul muzical al unei partituri, este esențial să înțelegem informațiile pe care aceasta le oferă chiar de la început. Titlul și detaliile generale oferă indicii importante despre lucrare.
+  </p>
+
+  <ul>
+    <li>📝 <strong>Titlul lucrării</strong> – Numele piesei apare în partea superioară și oferă adesea o idee despre caracterul sau inspirația compoziției.</li>
+    <li>👤 <strong>Compozitorul</strong> – Numele autorului este adesea afișat sub titlu. Acesta poate include și data compunerii.</li>
+    <li>🎼 <strong>Forma și catalogarea</strong> – Unele partituri includ și detalii precum “Sonată”, “Fugă”, sau “Op. 10 Nr. 2”.</li>
+    <li>📅 <strong>Contextul</strong> – În unele cazuri, pot fi menționate dedicații sau informații istorice despre lucrare.</li>
+  </ul>
+
+  <p>
+    Aceste elemente ne introduc în atmosfera piesei și oferă contextul necesar pentru o interpretare corectă. Este recomandat ca fiecare interpret să înceapă prin a înțelege aceste detalii.
+  </p>
+  <p>Trebuie remarcat de asemenea că, în unele cazuri, pe lângă compozitor este uneori menționat și numele celui care a reorchestrat piesa sau a rearmonizat-o. De asemenea, uneori pot fi 
+    regăsite informații despre sursa de inspirație a autorului. Observăm acest lucru în imaginea de mai jos:
+  </p>
+
+  <div style="text-align: center; margin-top: 10px;">
+    <img src="assets/partitura-titlu.jpg" alt="Exemplu titlu partitură" style="width: 80%; height: auto;" />
+  </div>
+</div>

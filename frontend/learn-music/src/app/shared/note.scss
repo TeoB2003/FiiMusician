@@ -1,0 +1,78 @@
+@mixin button-style($bg-color, $text-color) {
+    background-color: $bg-color;    
+    color: $text-color;            
+    padding: 15px 32px;             
+    font-size: 100%;
+    height: 6%;
+    width: 30%;                
+    border: none;                  
+    border-radius: 10px;            
+    cursor: pointer;               
+    margin: 10px 0;                  
+    display: flex;               
+    justify-content: center;      
+    align-items: center;   
+
+    &:hover {
+        background-color: darken($bg-color, 10%); 
+    }
+}
+
+@mixin ellipse($color) {
+    width: 40px;  
+    height: 35px; 
+    border-radius: 50%;
+    background-color: $color;
+    position: relative;
+}
+
+@mixin bar {
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 72px;
+    background-color: inherit;
+    top: -50px;
+    left: calc(100% - 3px);
+    transform: translateX(-50%);
+}
+
+@mixin flag {
+    content: "";
+    position: absolute;
+    width: 75px;
+    height: 60px;
+    background-color: inherit;
+    top: -51px;
+    left: 1px;
+    clip-path: polygon(50% 0%, 50% 42%, 78% 80%);
+    border-radius: 3px;
+}
+
+.black-note {
+    @include ellipse(black);
+
+    &::after {
+        @include bar;
+    }
+}
+
+.brown-note{
+    @include ellipse(rgb(166, 132, 38));
+
+    &::after {
+        @include bar;
+    }
+}
+
+.eighth-note-blue {
+    @include ellipse(#2196F3);
+
+    &::after {
+        @include bar;
+    }
+
+    &::before {
+        @include flag;
+    }
+}

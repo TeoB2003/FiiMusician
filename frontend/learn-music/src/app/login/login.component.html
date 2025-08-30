@@ -1,0 +1,17 @@
+<div class="login-overlay">
+    <button class="close-btn" (click)="close()">✕</button>
+    
+    <div class="login-content">
+      <h2>Autentificare</h2>
+      <form #form="ngForm" (ngSubmit)="onSubmit(form)">
+        <input type="text" placeholder="Nume utilizator" ngModel name="email"/>
+        <input type="password" placeholder="Parolă" ngModel name="password" />
+        <button type="submit">Conectează-te</button>
+      </form>
+      @if(errorMessage!='')
+      {
+        <div class="error-message">{{errorMessage}}</div>
+      }
+    </div>
+  </div>
+  

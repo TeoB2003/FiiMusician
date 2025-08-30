@@ -1,0 +1,305 @@
+@use "sass:color";
+@import '../shared/note.scss';
+
+$background: rgb(237, 227, 199);
+$margin-top-first: 8%;
+
+@mixin button-style($bg-color) {
+  background-color: $bg-color;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  font-weight: 600;
+  font-size: 0.9rem;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 10%;
+  height: 6%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+
+  &:hover {
+    background-color: color.scale($bg-color, $lightness: -30%);
+  }
+}
+
+@mixin custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #b59f76 transparent;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: #b59f76;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background-color: #a08460;
+  }
+}
+
+
+.all {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  background-color: $background;
+  overflow: hidden;
+}
+
+.left {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+}
+.exercitii-link{
+  color: blue;
+}
+.divider {
+  width: 2px;
+  background-color: rgba(100, 80, 50, 0.3);
+  height: 100vh;
+}
+
+.middle {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.right {
+  width: 30%;
+  overflow-y: auto;
+
+  @include custom-scrollbar;
+
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: $margin-top-first;
+}
+
+.site-title {
+  font-family: 'Georgia', serif;
+  font-size: 1.8rem;
+  color: #2c2c2c;
+  font-weight: bold;
+}
+
+
+.gauge-container {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.gauge {
+  width: 20vh;
+  height: 20vh;
+  border-radius: 50%;
+  background: conic-gradient(var(--color) var(--percent),
+      #e0e0e0 var(--percent));
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  --percent: 0%;
+  --color: red; // default
+  transition: background 0.5s ease-in-out;
+  mask-image: radial-gradient(circle, transparent 50%, black 56%);
+}
+
+.gauge-percent {
+  position: absolute;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+  color: var(--color);
+  top: -50%;
+  z-index: 2;
+}
+
+/* Dynamic colors */
+.gauge.green {
+  --color: #3b9e4f;
+}
+
+.gauge.yellow {
+  --color: #f4c542;
+}
+
+.gauge.red {
+  --color: #e74c3c;
+}
+
+.gauge-label {
+  margin-top: -5%;
+  font-size: 80%;
+  color: #333;
+  text-align: center;
+}
+
+.improvement-message {
+  margin-top: 10%;
+  padding: 0 10%;
+  text-align: center;
+  font-size: 0.95rem;
+  color: #5e4b36;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+
+.note-small {
+  transform: scale(0.3);
+}
+
+.chapter {
+  height: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .chapter-text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .completed {
+    font-size: 0.7rem;
+    color: gray;
+    margin-top: 2px;
+  }
+}
+
+.chapter:hover {
+  background-color: rgba(139, 111, 79, 0.2);
+}
+
+.arrow {
+  font-size: 1.2rem;
+  color: #5a4b3c;
+  transition: transform 0.3s ease;
+  position: relative;
+  right: 10px;
+}
+
+.chapter-content {
+  padding: 0.5rem 1rem;
+  background-color: rgba(255, 255, 255, 0.4);
+  color: #3a2f25;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.edit-profile-button {
+  @include button-style(#c4a484);
+}
+
+.analyze-button {
+  @include button-style(#4b8bbe);
+}
+
+.ear-train {
+  @include button-style(#8c5a2b);
+}
+
+.top {
+  width: 100%;
+  height: 92%;
+  overflow-y: auto;
+  @include custom-scrollbar;
+}
+
+.next-button-arrea {
+  height: 8%;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.next-button {
+  background-color: #3b9e4f;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: 600;
+  font-size: 1rem;
+  height: 70%;
+  cursor: pointer;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease;
+  margin-right: 5%;
+
+  &:hover {
+    background-color: color.scale(#3b9e4f, $lightness: -20%);
+  }
+}
+
+.logout {
+  @include button-style(#b5262d);
+}
+
+.html-content {
+  margin-top: 5%;
+  width: 90%;
+  margin-left: 5%;
+  color: #4d3b2f;
+
+
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-height:620px) or (width<1200px) {
+  .left {
+    .site-title{
+        font-size: 1.5rem;
+    }
+    .note-small{
+      display: none;
+    }
+    .ear-train {
+      height: 4%;
+      font-size: 70%;
+    }
+
+    .edit-profile-button {
+      height: 4%;
+      font-size: 70%;
+    }
+
+    .analyze-button {
+      height: 4%;
+      font-size: 70%;
+    }
+    .logout{
+       height: 4%;
+      font-size: 70%;
+    }
+  }
+}

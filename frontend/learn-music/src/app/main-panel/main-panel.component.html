@@ -1,0 +1,118 @@
+<div class="all">
+  @if(showFeedback)
+  {
+  <app-feedback [feedbackClass]="feedbackClass" [feedbackMessage]="feedbackMessage"></app-feedback>
+  }
+  <div class="left">
+
+    <div class="title">
+      <h2 class="site-title">FiiMusician</h2>
+      <div class="note-small">
+        <div class="eighth-note-blue"></div>
+      </div>
+    </div>
+
+    <div class="improvement-message">
+      Bine ai revenit, {{name}}!
+    </div>
+
+    <div class="gauge-container">
+      <div class="gauge" [ngStyle]="{ '--percent': percent + '%' }" [class.green]="percent > 80"
+        [class.yellow]="percent > 50 && percent <= 80" [class.red]="percent <= 50">
+      </div>
+      <div class="gauge-percent" [ngStyle]="{'color': getColor(percent)}">{{ percent }} %</div>
+      <div class="gauge-label">{{content.id_capitol}}.{{title}}</div>
+    </div>
+
+    <div class="improvement-message">
+      Îmbunătățește-ți punctele slabe.<br />
+      Fă un set de exerciții care să te ajute să progresezi mai rapid.
+      <span class="exercitii-link" (click)="openExercise()">exerciții</span>.
+    </div>
+
+
+    <button class="analyze-button" (click)="openTest()">
+      🎼 Dă testul final de capitol
+    </button>
+    <button class="ear-train" (click)="goToEarTrain()">
+      🎶 Antrenează-ți auzul
+    </button>
+
+    <button class="edit-profile-button" (click)="goToEditProfile()">
+      Editare profil
+    </button>
+
+    <button class="logout" (click)="logout()">
+      Deconectează-te 🚪➡️
+    </button>
+  </div>
+  <div class="divider"></div>
+  <div class="middle">
+    <div class="top">
+      @if(content.is_theory==true)
+      {
+      <div class="html-content" [innerHTML]="safeHtml"></div>
+      }
+
+      @else {
+      @if(content.variante?.length==0 )
+      {
+      <app-write-answer-exercise [needScore]="content.need_w_score"></app-write-answer-exercise>
+      }
+      @else if(content.variante!=undefined) {
+      <app-choose-answer-exercise [options]="content!.variante" [questionText]="content.text"
+        [score]="content.note?.note" [duration]="content.note?.duration" [htmlcontent]="content.html_content"
+        [userLevel]="userLevel" (chosenAnswer)="handleChosenAnswer($event)"></app-choose-answer-exercise>
+      }
+      }
+      @if(showTheory==true)
+      {
+      <app-theory (close)="closeTheory()" [chapterName]="theoryChapter"
+        [subchapterName]="theorySubChapter"></app-theory>
+      }
+      @if(showTest==true)
+      {
+      <app-chapter-test (close)="closeTest($event)" [chapterIndex]="content.id_capitol"></app-chapter-test>
+      }
+      @if(showExercise==true)
+      {
+      <app-unresolved-exercise (close)="closeExercise()"></app-unresolved-exercise>
+      }
+    </div>
+    <div class="next-button-arrea">
+      <button class="next-button" (click)="printAnswer()">Mai departe ➡️</button>
+    </div>
+  </div>
+
+  <div class="theory-zone"></div>
+  <div class="right">
+    <div class="title" style="margin-bottom: 5%;">
+      <h3>Cuprins</h3>
+    </div>
+    @for(chapter of chapters; track $index)
+    {
+    <div class="chapter" (click)="toggleChapter($index)">
+      <div class="chapter-text">
+        <span>{{ chapter.title }}</span>
+        @if(content.id_capitol> $index+1)
+        {
+        <small class="completed">completed</small>
+        }
+      </div>
+      <span class="arrow">{{ expandedChapters[$index] ? '▲' : '▼' }}</span>
+    </div>
+    @if( expandedChapters[$index])
+    {
+    @let chapterIndex = $index;
+    <div class="chapter-content">
+      @for (sub of chapter.subchapters; track $index) {
+      <app-subchapters
+        [isDone]="(ordineSubcapitol > $index && content.id_capitol==chapterIndex+1) || content.id_capitol>chapterIndex+1"
+        [isInProgress]="ordineSubcapitol==$index && content.id_capitol==chapterIndex+1" [name]="sub"
+        (click)="openTheory(chapter.title, sub)"></app-subchapters>
+      }
+    </div>
+    }
+    }
+  </div>
+</div>

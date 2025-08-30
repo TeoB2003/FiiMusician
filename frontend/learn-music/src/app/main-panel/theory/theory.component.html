@@ -1,0 +1,16 @@
+<div class="theory">
+      <button class="close-button" (click)="close.emit()">✖</button>
+  @if(currentIndex>0)
+  { 
+     <button class="nav-arrow left" (click)="back()">‹</button>
+  }
+
+  @if(currentIndex<theoryOrder.length-1)
+  {
+    <button class="nav-arrow right" (click)="next()">›</button>
+  }
+
+  <div class="content">
+         <div class="html-content" [innerHTML]="safeHtml"></div>
+  </div>
+</div>

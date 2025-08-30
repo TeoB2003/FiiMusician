@@ -1,0 +1,783 @@
+2025-07-07 18:19:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:19:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:19:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:20:13 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:20:13 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:20:13 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:20:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:20:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:20:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:21:14 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:21:14 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:21:14 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:21:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:21:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:21:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:22:13 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:22:13 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:22:13 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:22:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:22:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:22:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:23:13 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:23:13 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:23:13 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:23:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:23:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:23:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:24:13 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:24:13 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:24:13 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:24:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:24:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:24:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:25:13 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:25:13 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:25:13 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:25:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:25:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:25:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:26:13 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:26:13 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:26:13 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:26:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:26:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:26:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:27:13 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:27:13 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:27:13 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:27:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:27:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:27:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:28:14 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:28:14 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:28:14 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:28:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:28:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:28:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:29:14 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:29:14 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:29:14 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:29:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:29:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:29:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:30:14 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:30:14 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:30:14 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:30:43 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:30:43 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:30:43 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:31:14 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 18:31:14 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:31:14 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 18:38:22 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 18:38:22 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 18:38:22 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:20:59 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:20:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:20:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:21:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:21:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:21:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:21:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:21:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:21:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:22:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:22:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:22:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:22:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:22:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:22:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:23:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:23:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:23:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:23:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:23:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:23:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:24:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:24:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:24:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:24:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:24:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:24:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:25:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:25:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:25:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:25:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:25:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:25:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:26:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:26:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:26:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:26:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:26:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:26:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:27:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:27:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:27:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:27:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:27:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:27:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:28:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:28:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:28:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:28:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:28:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:28:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:29:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:29:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:29:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:29:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:29:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:29:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:30:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:30:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:30:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:30:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:30:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:30:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:31:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:31:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:31:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:31:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:31:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:31:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:32:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:32:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:32:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:32:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:32:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:32:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:33:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:33:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:33:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:33:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:33:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:33:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:34:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:34:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:34:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:34:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:34:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:34:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:35:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:35:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:35:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:35:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:35:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:35:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:36:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:36:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:36:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:36:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:36:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:36:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:37:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:37:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:37:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:37:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:37:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:37:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:38:29 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:38:29 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:38:29 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:38:59 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:38:59 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:38:59 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:49:07 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:49:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:49:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:49:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:49:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:49:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:50:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:50:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:50:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:50:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:50:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:50:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:51:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:51:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:51:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:51:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:51:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:51:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:52:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:52:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:52:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:52:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:52:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:52:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:53:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:53:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:53:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:53:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:53:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:53:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:54:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:54:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:54:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:54:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:54:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:54:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:55:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:55:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:55:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:55:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:55:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:55:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:56:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:56:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:56:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:56:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:56:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:56:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:57:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:57:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:57:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:57:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:57:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:57:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:58:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:58:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:58:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:58:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:58:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:58:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:59:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 21:59:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:59:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 21:59:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 21:59:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 21:59:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:00:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:00:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:00:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:00:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:00:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:00:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:01:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:01:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:01:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:01:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:01:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:01:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:02:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:02:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:02:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:02:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:02:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:02:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:03:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:03:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:03:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:03:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:03:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:03:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:04:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:04:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:04:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:04:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:04:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:04:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:05:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:05:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:05:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:05:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:05:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:05:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:06:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:06:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:06:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:06:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:06:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:06:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:07:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:07:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:07:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:07:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:07:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:07:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:08:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:08:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:08:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:08:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:08:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:08:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:09:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:09:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:09:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:09:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:09:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:09:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:10:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:10:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:10:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:10:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:10:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:10:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:11:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:11:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:11:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:11:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:11:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:11:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:12:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:12:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:12:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:12:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:12:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:12:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:13:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:13:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:13:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:13:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:13:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:13:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:14:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:14:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:14:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:14:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:14:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:14:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:15:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:15:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:15:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:15:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:15:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:15:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:16:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:16:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:16:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:16:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:16:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:16:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:17:07 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:17:07 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:17:07 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:17:37 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:17:37 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:17:37 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:38:20 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:38:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:38:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:38:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:38:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:38:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:39:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:39:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:39:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:39:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:39:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:39:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:40:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:40:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:40:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:40:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:40:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:40:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:41:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:41:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:41:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:41:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:41:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:41:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:42:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:42:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:42:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:42:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:42:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:42:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:43:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:43:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:43:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:43:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:43:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:43:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:44:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:44:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:44:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:44:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:44:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:44:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:45:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:45:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:45:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:45:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:45:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:45:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:46:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:46:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:46:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:46:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:46:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:46:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:47:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:47:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:47:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:47:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:47:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:47:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:48:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:48:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:48:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:48:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:48:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:48:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:49:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:49:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:49:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:49:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:49:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:49:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:50:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:50:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:50:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:50:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:50:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:50:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:51:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:51:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:51:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:51:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:51:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:51:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:52:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:52:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:52:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:52:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:52:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:52:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:53:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:53:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:53:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:53:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:53:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:53:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:54:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:54:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:54:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:54:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:54:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:54:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:55:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:55:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:55:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:55:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:55:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:55:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:56:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:56:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:56:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:56:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:56:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:56:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:57:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:57:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:57:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:57:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:57:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:57:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:58:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:58:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:58:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:58:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:58:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:58:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:59:20 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 22:59:20 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:59:20 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 22:59:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 22:59:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 22:59:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:00:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:00:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:00:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:00:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:00:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:00:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:01:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:01:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:01:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:01:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:01:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:01:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:02:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:02:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:02:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:02:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:02:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:02:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:03:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:03:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:03:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:03:50 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:03:50 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:03:50 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:04:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:04:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:04:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:04:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:04:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:04:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:05:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:05:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:05:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:05:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:05:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:05:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:06:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:06:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:06:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:06:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:06:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:06:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:07:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:07:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:07:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:07:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:07:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:07:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:08:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:08:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:08:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:08:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:08:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:08:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:09:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:09:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:09:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:09:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:09:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:09:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:10:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:10:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:10:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:10:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:10:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:10:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:11:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:11:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:11:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:11:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:11:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:11:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:12:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:12:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:12:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:12:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:12:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:12:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:13:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:13:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:13:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:13:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:13:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:13:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:14:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:14:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:14:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:14:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:14:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:14:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:15:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:15:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:15:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:15:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:15:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:15:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:16:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:16:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:16:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:16:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:16:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:16:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:17:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:17:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:17:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:17:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:17:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:17:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:18:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:18:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:18:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:18:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:18:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:18:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:19:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:19:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:19:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:19:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:19:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:19:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:20:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:20:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:20:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:20:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:20:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:20:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:21:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:21:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:21:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:21:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:21:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:21:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:22:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:22:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:22:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:22:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:22:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:22:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:23:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:23:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:23:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:23:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:23:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:23:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:24:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:24:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:24:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:24:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:24:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:24:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:25:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:25:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:25:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:25:51 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:25:51 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:25:51 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:26:21 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:26:21 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:26:21 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:28:56 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:28:56 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:28:56 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:43:27 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:43:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:43:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:43:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:43:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:43:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:44:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:44:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:44:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:44:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:44:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:44:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:45:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:45:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:45:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:45:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:45:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:45:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:46:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:46:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:46:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:46:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:46:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:46:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:47:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:47:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:47:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:47:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:47:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:47:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:48:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:48:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:48:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:48:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:48:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:48:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:49:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:49:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:49:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:49:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:49:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:49:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:50:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:50:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:50:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:50:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:50:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:50:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:51:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:51:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:51:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:51:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:51:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:51:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:52:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:52:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:52:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:52:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:52:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:52:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:53:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:53:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:53:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:53:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:53:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:53:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:54:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:54:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:54:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:54:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:54:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:54:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:55:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:55:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:55:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:55:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:55:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:55:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:56:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:56:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:56:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:56:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:56:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:56:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:57:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:57:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:57:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:57:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:57:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:57:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:58:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:58:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:58:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:58:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:58:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:58:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:59:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-07 23:59:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:59:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-07 23:59:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-07 23:59:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-07 23:59:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-08 00:00:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-08 00:00:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-08 00:00:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-08 00:00:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-08 00:00:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-08 00:00:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-08 00:01:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-08 00:01:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-08 00:01:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-08 00:01:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-08 00:01:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-08 00:01:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-08 00:02:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-08 00:02:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-08 00:02:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-08 00:02:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-08 00:02:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-08 00:02:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-08 00:03:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-08 00:03:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-08 00:03:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-08 00:03:57 EEST WARNING:  database "postgres" has a collation version mismatch
+2025-07-08 00:03:57 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-08 00:03:57 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE postgres REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.
+2025-07-08 00:04:27 EEST WARNING:  database "DoMusic" has a collation version mismatch
+2025-07-08 00:04:27 EEST DETAIL:  The database was created using collation version 1540.3,1540.3, but the operating system provides version 1541.2,1541.2.
+2025-07-08 00:04:27 EEST HINT:  Rebuild all objects in this database that use the default collation and run ALTER DATABASE "DoMusic" REFRESH COLLATION VERSION, or build PostgreSQL with the right library version.

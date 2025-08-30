@@ -1,0 +1,7 @@
+2025-07-10 16:01:45 EEST ERROR:  could not seek to end of file "global/1262": Permission denied
+2025-07-10 16:01:45 EEST ERROR:  could not seek to end of file "global/1262": Permission denied
+2025-07-10 16:01:45 EEST ERROR:  canceling statement due to user request
+2025-07-10 16:01:45 EEST LOG:  shutting down
+2025-07-10 16:01:45 EEST LOG:  checkpoint starting: shutdown immediate
+2025-07-10 16:01:45 EEST LOG:  unrecognized win32 error code: 21
+2025-07-10 16:01:45 EEST PANIC:  could not write to log file "000000010000000000000001" at offset 12271616, length 8192: Invalid argument

@@ -1,0 +1,39 @@
+.all{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.question{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Georgia', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #5a4636; 
+    line-height: 1.6;
+}
+.answer{
+    height: 50%;
+    width: 100%;
+}
+
+textarea {
+    width: 80%;
+    height: 15%;
+    margin-left: 10%;
+    border: 2px solid #a08d6f;
+    border-radius: 12px;
+    font-family: 'Georgia', serif;
+    font-size: 1.1rem;
+    color: #3b2e1a;
+    background-color: #ffffffcc;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    resize: vertical;
+  }

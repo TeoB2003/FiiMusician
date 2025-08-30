@@ -1,0 +1,20 @@
+<div class="page">
+    <div class="left">
+     <div class="black-note" style="position: fixed; top: 45%; left:10%"></div>
+     <div class="eighth-note-blue" style="position: fixed; top: 55%; left:15%"> </div>
+     <div class="eighth-note-blue" style="position: fixed; top: 45%; left:25%"></div>
+     <div class="brown-note" style="position: fixed; top: 35%; left:20%"></div>
+    </div>
+    <div class="right">
+        <div class="text">
+            <h1 style="color: black;">Aici poți învăța să înțelegi muzica pe care o asculți și să poți citi o partitură.</h1>
+        </div>
+        <button class="begin" (click)="signup()">Începe</button>
+        <button class="have-account" (click)="showLogin()">Am deja cont</button>
+    </div>
+
+    @if(isLogin==true)
+    {
+        <app-login (closeLogin)="isLogin = false"></app-login>
+    }
+</div>

@@ -1,0 +1,27 @@
+<div style="margin: 0 8%; text-align: left; padding-top: 40px; font-size: 1.1rem; line-height: 1.5;">
+  <h2 style="margin-bottom: 10px;">Rolul informațiilor introductive dintr-o partitură</h2>
+
+  <p>
+    Înainte să fie cântată sau studiată, o piesă muzicală își dezvăluie identitatea chiar prin informațiile de la începutul partituri. Acestea nu sunt simple detalii tehnice, ci elemente care oferă profunzime și sens întregii lucrări.
+  </p>
+
+  <h3 style="margin-top: 20px;">📌 De ce contează titlul?</h3>
+  <p>
+    Titlul unei piese poate fi o cheie de lectură pentru interpret. Uneori descrie atmosfera (<em>“Nocturnă”</em>, <em>“Toccata furioasă”</em>), alteori face trimitere la un loc, o persoană sau un eveniment (<em>“Dans spaniol”</em>, <em>“Elegie pentru mama”</em>). Chiar și titlurile aparent simple pot ascunde simboluri sau intenții poetice.
+  </p>
+
+  <h3 style="margin-top: 20px;">🧑‍🎨 Informații despre compozitor și perioada istorică</h3>
+  <p>
+    Cunoașterea compozitorului ajută enorm în interpretare. De exemplu, o piesă de Bach cere o abordare diferită față de una de Debussy. Dacă partitura menționează anul compunerii sau curentul muzical (baroc, clasicism, romantism), interpretul poate decide cum să folosească tempo-ul sau articularea în funcție de specificul perioadei.
+  </p>
+
+  <h3 style="margin-top: 20px;">🧾 Note editoriale, dedicații și alte elemente scrise</h3>
+  <p>
+    În anumite partituri apar dedicații (“Dedicat Eleonorei Duse”), texte explicative sau chiar fragmente poetice. Acestea pot indica starea emoțională dorită sau pot dezvălui scopul piesei. Nu trebuie ignorate – ele sunt o fereastră către gândirea compozitorului.
+  </p>
+
+  <h3 style="margin-top: 20px;">🎯 Impact asupra interpretării</h3>
+  <p>
+    Ignorarea informațiilor introductive poate duce la o interpretare superficială. De exemplu, o piesă intitulată <em>“Lamento”</em> (plângere, jale) va necesita o frazare și o expresivitate diferită față de una numită <em>“Joc de copii”</em>. Tot aceste detalii ajută și la stabilirea unui tempo potrivit, a dinamicii sau a nuanțelor de expresie.
+  </p>
+</div>

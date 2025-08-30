@@ -1,0 +1,62 @@
+<div class="exercise-container">
+  @if(showFeedback)
+  {
+    <app-feedback [feedbackClass]="feedbackClass" [feedbackMessage]="feedbackMessage" ></app-feedback>
+  }
+    <button class="close-btn" (click)="goBack()">✕</button>
+    <h2 class="exercise-title">
+      {{ exerciseType === 'ear-training' ? 'Antrenament auditiv (recunoaștere și scriere melodie)' : 'Antrenament identificare notă muzicală' }}
+    </h2>
+  
+    @if(exerciseType === 'ear-training')
+    { 
+    <div  class="ear-training-section">
+      <button class="play-button" (click)="playExercise()" [class.playing]="isSinging">
+       {{wasPressed==false ? '▶️ Ascultă exercițiul': '▶️ Ascultă din nou'}} 
+      </button>
+      @if(totalTime>0)
+      {
+        <div class="progress-container" >
+               <progress [value]="currentTime" [max]="totalTime"></progress>
+      </div>
+
+      }
+    </div>
+    <div class="write-answer"> 
+        <app-write-score (notesChosen)="showNotes($event)" [resetScore]="shouldReset"></app-write-score>
+    </div>
+    }
+    @else{
+        <div class="intonation-section">
+            <button class="play-button" (click)="playPerfectIntonation()"  [class.playing]="isSinging">
+              🔊 Redă sunetul
+            </button>
+        
+            <p class="question">Ce notă s-a auzit?</p>
+        
+
+            @if( hasOption==true)
+            {
+              <div class="answer-buttons">
+                @for(varianta of this.varianteAuzAbsolut; track varianta)
+                {
+                  <button class="option-button" (click)="chooseAnswer(varianta)"   [ngClass]="{'selected': currentAnswer === varianta}">{{varianta}}</button>
+                }
+            </div>
+            }
+
+            @else {
+                 <input class="manual-input" type="text" placeholder="Introdu nota manual" >
+            }
+          </div>
+    }
+
+    <div class="next-button-arrea">
+        <button class="next-button" (click)="printAnswer()">Next ➡️</button>
+    </div>
+</div>
+@if(showFeedback==true)
+{
+  <app-feedback [feedbackClass]="this.feedbackClass" [feedbackMessage]="this.feedbackMessage"></app-feedback>
+}
+    

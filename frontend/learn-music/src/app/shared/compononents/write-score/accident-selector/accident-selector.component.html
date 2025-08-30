@@ -1,0 +1,12 @@
+<div class="overlay">
+<div class="accident-selector">
+    <label for="accident">Selectează accidentul:</label>
+    <select id="accident" [(ngModel)]="selectedAccident">
+     @for(acc of accidents; track accidents.indexOf(acc) ) {
+        <option  [value]="acc">{{ acc === 'n' ? 'Natural' : acc === '#' ? 'Diez' : 'Bemol' }}</option>
+     }
+    </select>
+    <button (click)="onSelectAccident()">Aplică</button>
+  </div>
+</div>
+  

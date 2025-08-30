@@ -1,0 +1,28 @@
+<div class="chapter-test">
+      <button class="close-button" (click)="closeModal()">✖</button>
+
+  @if(currentIndex<exerciseOrder.length)
+  {
+    <!--voi pune next dupa ultimul exercitiu pentru mesaj daca ai trecut testul sau nu-->
+    <button class="nav-arrow right" (click)="next()">›</button>
+  }
+
+  <div class="content">
+    @if(currentIndex==exerciseOrder.length)
+    {
+       <p>Ai terminat de parcurs toate exercițiile propuse pentru îmbunătățire.</p>
+    }
+    @else{
+
+     @if(content.variante?.length==0 )
+      {
+      <app-write-answer-exercise [needScore]="content.need_w_score"></app-write-answer-exercise>
+      }
+      @else if(content.variante!=undefined) {
+      <app-choose-answer-exercise [options]="content!.variante" [questionText]="content.text" [score]="content.note?.note"
+        [duration]="content.note?.duration" [htmlcontent]="content.html_content" [userLevel]="'Avansat'"
+        (chosenAnswer)="handleChosenAnswer($event)"></app-choose-answer-exercise>
+      }
+    }
+  </div>
+</div>

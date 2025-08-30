@@ -1,0 +1,48 @@
+<div class="all">
+    <div class="signup-container" [@fadeIn]>
+        <h2>Înregistrează-te</h2>
+
+        <form (ngSubmit)="onSignup()"  [ngClass]="{ shake: shakeForm }">
+            <input type="text" placeholder="Nume de utilizator" [(ngModel)]="name" name="name" required />
+
+            <input type="email" placeholder="Email" [(ngModel)]="email" name="email" required />
+
+            <input type="password" placeholder="Parolă" [(ngModel)]="password" name="password" required />
+
+            <input type="password" placeholder="Confirmă parola" [(ngModel)]="confirmPassword" name="confirmPassword"
+                required />
+
+            @if(formSubmitted && passwordTooShort)
+            {
+            <div class="error">
+                Parola trebuie să conțină cel puțin 8 caractere.
+            </div>
+            }
+
+            @if(formSubmitted && passwordMismatch)
+            {
+            <div class="error">
+                Parolele nu corespund.
+            </div>
+            }
+
+            @if(formSubmitted && isFormEmpty)
+            {
+            <div class="error">
+                Trebuie să completezi toate câmpurile.
+            </div>
+            }
+
+            @if(formSubmitted && isEmailInvalid)
+            {
+                <div class="error" >
+                    Adresa de email este invalidă.
+                </div>
+            }
+
+
+            <button type="submit" class="signup-button">Creează cont</button>
+        </form>
+    </div>
+
+</div>

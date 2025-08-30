@@ -1,0 +1,23 @@
+<div style="margin: 0 8%; text-align: left; padding-top: 40px; font-size: 1.1rem; line-height: 1.5;">
+  <h2 style="margin-bottom: 10px;">🎶 Ce se întâmplă când nu ajunge portativul?</h2>
+
+  <p>
+    Deși portativul are doar cinci linii, în muzică avem nevoie să scriem sunete și mai înalte ⬆️ sau mai joase ⬇️ decât cele care încap pe cele cinci poziții principale. Pentru a nota aceste sunete, folosim <strong>linii suplimentare</strong> ➕.
+  </p>
+
+  <p>
+    Liniile suplimentare sunt linii scurte, trasate deasupra sau dedesubtul portativului ✍️. Ele apar doar acolo unde este nevoie și servesc drept suport pentru note aflate în afara portativului propriu-zis.
+  </p>
+
+  <p>
+    De exemplu, dacă vrem să scriem o notă care este mai înaltă decât cea aflată pe linia a cincea, vom adăuga o linie scurtă deasupra portativului și vom nota acolo 🪄. La fel se procedează și pentru sunetele joase, sub prima linie.
+  </p>
+
+  <p>
+    Astfel, portativul devine un sistem flexibil 🔄 care se poate extinde ușor, fără a pierde claritatea vizuală 📐.
+  </p>
+
+  <div style="text-align: center; margin-top: 10px;">
+    <img src="assets/linii-suplimentare.jpg" alt="Note cu linii suplimentare" style="width: 70%; height: auto;" />
+  </div>
+</div>

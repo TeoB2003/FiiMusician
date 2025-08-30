@@ -1,0 +1,115 @@
+.exercise-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(237, 227, 199);
+  }
+  
+  .write-answer{
+    height: 50%;
+    width: 60%;
+  }
+  .exercise-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    color: #333;
+    max-width: 60%;
+  }
+  
+  .play-button {
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+    background-color: #4b8bbe;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 1rem;
+
+  }
+   .playing {
+  background-color: grey;
+  cursor: not-allowed;  
+  }  
+  .progress-container {
+    width: 100%;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  .intonation-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .question {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    color: #222;
+  }
+  
+  .answer-buttons {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  
+    .option-button {
+      padding: 0.5rem 1rem;
+      background-color: #8c5a2b;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .option-button.selected {
+        background-color: #a67b5b; 
+        transform: scale(1.05); 
+      }
+  }
+  
+  .manual-input {
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #888;
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: none;
+    border: none;
+    color: rgb(188, 181, 181);
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+
+.next-button-arrea{
+  height: 8%;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.next-button {
+  background-color: #3b9e4f; 
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: 600;
+  font-size: 1rem;
+  height: 70%;
+  cursor: pointer;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease;
+  margin-right: 15%;
+
+  &:hover {
+    background-color: #2b6e38;
+  }
+}

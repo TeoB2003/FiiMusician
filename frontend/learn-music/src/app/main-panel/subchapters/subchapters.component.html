@@ -1,0 +1,14 @@
+<div class="all">
+    <span class="subchapter-name">{{ name() }}</span>
+    <div class="status-indicator">
+      @if (isDone()) {
+        <input type="checkbox" checked disabled />
+      }
+      @else if (isInProgress()) {
+        <input type="checkbox" disabled />
+      }
+      @else {
+        <div class="not-started"></div>
+      }
+    </div>
+</div>

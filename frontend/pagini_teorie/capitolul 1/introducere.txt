@@ -1,0 +1,23 @@
+<div style="margin: 0 8%; text-align: left; padding-top: 40px; font-size: 1.1rem; line-height: 1.5;">
+  <h2 style="margin-bottom: 10px;">Bine ai venit!</h2>
+
+  <p>
+    Această aplicație te va ghida pas cu pas în procesul de învățare a citirii unei partituri muzicale și te va antrena în 
+    a reuși să identifici notele cântate dintr-o melodie pe care o asculți.
+  </p>
+
+  <ul>
+    <li>📚 Învață conceptele de bază ale notării muzicale într-un mod clar și structurat</li>
+    <li>🎵 Explorează capitole interactive care te ajută să recunoști simbolurile și regulile unei partituri</li>
+    <li>🧠 Verifică-ți cunoștințele prin exerciții practice și exemple vizuale</li>
+    <li>🏁 Urmărește-ți progresul și avansează în ritmul tău</li>
+  </ul>
+
+  <p>
+    Scopul aplicației este să te ajute să devii încrezător în citirea și interpretarea muzicii scrise, chiar dacă pornești de la zero. Pe lângă asta vei reuși să-ți formezi o ureche muzicală performantă, dacă vei alege să parcurgi și exercițiile
+    de la antrenamentul auditiv.
+  </p>
+  <div style="text-align: center; margin-top: 10px;">
+    <img src="assets/welcome.jpg" alt="Imagine introductivă" style="width: 70%; height: auto;" />
+  </div>
+</div>

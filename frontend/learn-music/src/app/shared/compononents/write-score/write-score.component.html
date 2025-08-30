@@ -1,0 +1,33 @@
+<div class="all">
+    <div class="score-board" #scoreContainer (click)="onScoreClick($event)" (mousemove)="onMouseMove($event)">
+    </div>
+    <div class="symbols">
+        @for(item of notes; track notes.indexOf(item))
+        {
+        <div class="square" (click)="selectSymbol(item)">{{item.symbol}}</div>
+        }
+    </div>
+    <div class="bottom">
+        <div class="info">{{selectedSymbol.name}}</div>
+        @if (hoverNote)
+        {
+             <div  class="hover-preview">Va fi: {{ hoverNote }}</div>
+        }
+        <div class="actions">
+            <div class="actions">
+                <button class="undo-btn" (click)="undo()" title="Undo">
+                    <span>&#8630;</span> 
+                </button>
+                <button class="delete-btn" (click)="clearAll()" title="Șterge tot">
+                    <span>&#x1F5D1;</span>
+                </button> 
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@if(showQuestion)
+{
+<app-accident-selector (accidentSelected)="onAccidentSelected($event)"></app-accident-selector>
+}

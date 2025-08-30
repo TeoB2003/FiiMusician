@@ -1,0 +1,15 @@
+<div class="all">
+    <div class="question">
+        {{questionText()}}
+    </div>
+
+    <div class="answer">
+    @if(needScore()==true)
+    {
+        <app-write-score (notesChosen)="printNotes($event)"></app-write-score>
+    }
+    @else{
+        <textarea placeholder="Scrie aici raspunsul tău..." [(ngModel)]="answer"   (input)="verifyAnswer()" ></textarea>
+    }
+</div>
+</div>
